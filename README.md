@@ -232,20 +232,6 @@ GitHub will generate a live URL for your portfolio.
 
 ---
 
-## 🔄 Updating the Portfolio
-
-Whenever you make changes:
-
-```bash
-git add .
-git commit -m "Update portfolio"
-git push origin main
-```
-
-If the website is deployed through GitHub Pages, the live website will automatically update after GitHub finishes deploying the latest commit.
-
----
-
 ## 📌 Future Improvements
 
 Potential future improvements include:
